@@ -54,7 +54,7 @@
             </x-primary-button>
         </div>      
 
-        <label class="text-lg flex items-center mt-4 justify-center text-gray-400">or</label>
+        
 
         <!--Sign up with google-->
         <div class="flex items-center justify-center mt-8">
